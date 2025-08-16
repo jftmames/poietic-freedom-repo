@@ -1,0 +1,22 @@
+{
+  "case_name": "Habeas Corpus (1305)",
+  "description": "Primer recurso jurídico que obliga a presentar detenidos ante juez",
+  "criteria": {
+    "ontological_novelty": true,
+    "non_deducibility": true,
+    "non_necessity": true,
+    "intentional_form": true,
+    "guidance_control": true
+  },
+  "evidence": {
+    "ontological_novelty": "Ningún recurso previo exigía 'producir el cuerpo' (Tierney, 2023)",
+    "non_deducibility": "No derivable de la ley feudal (Epstein, 2021)",
+    "non_necessity": "Sistema jurídico operaba sin él; necesidad moral emergió después",
+    "intentional_form": "Estructura coherente: petición → auto → audiencia",
+    "guidance_control": "Desarrollado por juristas reales, operativizado por tribunales"
+  },
+  "sources": [
+    "UK National Archives: Patent Rolls 1305 (C 66/114)",
+    "Tierney, B. (2023). Journal of Legal History. DOI:10.1080/01440365.2023.2195482"
+  ]
+}
